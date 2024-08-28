@@ -1,5 +1,5 @@
 [package]
-name = "sleitnick/observers"
+name = "tazmondo/observer"
 description = "A collection of observer utility functions"
 version = "0.3.4"
 license = "MIT"
